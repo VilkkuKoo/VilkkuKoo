@@ -7,7 +7,7 @@
 - ⚡ Fun fact: 
 -->
 
-- 🔭 I’m currently working on automating my normal window blinds
+- 🔭 I’m currently working on automating my normal window blinds and creating my own page
 - 🌱 I’m sometimes learning c++, python and Github
 - 💬 Ask me about 3d-printing, computers or anything but i might not know how to answer
 - 📫 How to reach me: Best way to reach me is Via Discord, my username is: silli_fin
