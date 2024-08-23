@@ -12,3 +12,4 @@
 - 💬 Ask me about 3d-printing, computers or anything but i might not know how to answer
 - 📫 How to reach me: Best way to reach me is Via Discord, my username is: silli_fin
 - 😄 Pronouns: He/Him
+- 🕒 When can you reach me: Best times to reach me is between 16:00 and 23:00 on weekdays and on weekends 12:00 - 00:00
