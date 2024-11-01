@@ -14,4 +14,20 @@
 - 😄 Pronouns: He/Him
 - 🕒 When can you reach me: Best times to reach me is between 16:00 and 23:00 on weekdays and on weekends 12:00 - 00:00
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api) 
+
+
+
+
+
+
+
+
+
+
+
+<!--
+All the things in my readme that arent mine.
+https://github.com/ABSphreak/readme-jokes
+
+--!>
