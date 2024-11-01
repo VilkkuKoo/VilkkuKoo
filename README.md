@@ -4,6 +4,8 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+![Snake](https://raw.githubusercontent.com/vilkkukoo/vilkkukoo/output/github-contribution-grid-snake.svg)
+
 ## Hi there 👋
 
 <!--
