@@ -1,6 +1,8 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=vilkkukoo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<center> [![GitHub Streak](https://streak-stats.demolab.com?user=vilkkukoo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) </center>
 
-![Snake](https://raw.githubusercontent.com/vilkkukoo/vilkkukoo/output/github-contribution-grid-snake.svg)
+<center> ![productive time](https://raw.githubusercontent.com/VilkkuKoo/VilkkuKoo/main/profile-summary-card-output/github_dark/4-productive-time.svg) </center>
+
+<center> ![Snake](https://raw.githubusercontent.com/vilkkukoo/vilkkukoo/output/github-contribution-grid-snake.svg) </center>
 
 ## Hi there 👋
 
@@ -18,7 +20,7 @@
 - 😄 Pronouns: He/Him
 - 🕒 When can you reach me: Best times to reach me is between 16:00 and 23:00 on weekdays and on weekends 12:00 - 00:00
 
-![Jokes Card](https://readme-jokes.vercel.app/api) 
+<center> ![Jokes Card](https://readme-jokes.vercel.app/api) </center>
 
 
 
@@ -35,4 +37,5 @@ All the things in my readme that arent mine.
 https://github.com/ABSphreak/readme-jokes
 https://github.com/Platane/snk
 https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file
 --!>
